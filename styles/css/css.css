@@ -1,14 +1,52 @@
 body{
 	font-family: 'Roboto Mono', monospace;
 }
-*{
-	padding-bottom: 0px;
-}
+
+
+/*bg-colors*/
 .header{
-	width: 100%;
 	background-color: #181617;
 }
 
 .s1{
 	background-color: #1F1C1D;
+}
+
+.s2{
+	background-color: #151313;
+}
+
+.s4{
+	background-color: #151313;
+}
+
+.s5, .s6{
+	background-color: #1F1C1D;
+}
+
+footer{
+	background-color: #151313;
+}
+
+
+ul{
+
+	list-style: none;
+}
+
+li{
+	text-decoration: none;
+}
+
+.nav_list li{
+	display: inline;
+}
+
+.nav_list{
+}
+
+.header_block{
+	width: 50%;
+	margin: 0 auto;
+	display: block;
 }

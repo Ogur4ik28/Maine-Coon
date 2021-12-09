@@ -1,52 +1,69 @@
 body{
 	font-family: 'Roboto Mono', monospace;
 }
-
-
+*{
+	padding: 0;
+	margin: 0;
+}
 /*bg-colors*/
 .header{
 	background-color: #181617;
 }
-
-.s1{
+.s3{
+	background-image: url(http://placehold.it/1366x645);
+}
+.s1, .s5, .s6{
 	background-color: #1F1C1D;
 }
 
-.s2{
+.s2, .s4, footer{
 	background-color: #151313;
 }
 
-.s4{
-	background-color: #151313;
+/*navigation*/
+.social_networks{
+	float: 
 }
-
-.s5, .s6{
-	background-color: #1F1C1D;
-}
-
-footer{
-	background-color: #151313;
-}
-
 
 ul{
-
 	list-style: none;
 }
 
 li{
 	text-decoration: none;
 }
+.nav_list a{
+	display: inline;
 
+}
 .nav_list li{
 	display: inline;
 }
-
 .nav_list{
+	margin: 0;
+	list-style-type: none;
+	padding-left: 0;
+	margin-left: 0;
 }
 
 .header_block{
 	width: 50%;
 	margin: 0 auto;
 	display: block;
+}
+.nav{
+}
+/*main*/
+
+.footer_span, .thanx, .invisible_title, .about_autor_title, .grooming_subtitle, li, .why_us_text, .agress{
+	color: white;
+}
+.grooming_title{
+	color: #A07B50;
+}
+span{
+	color: #A07B50;
+}
+#phone_number{
+	font-weight: bold;
 }

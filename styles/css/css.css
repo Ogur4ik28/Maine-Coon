@@ -51,11 +51,9 @@ li{
 	margin: 0 auto;
 	display: block;
 }
-.nav{
-}
 /*main*/
 
-.footer_span, .thanx, .invisible_title, .about_autor_title, .grooming_subtitle, li, .why_us_text, .agress{
+.adress, .phone_num, .thanx, .invisible_title, .about_autor_title, .grooming_subtitle, li, .why_us_text, .agress{
 	color: white;
 }
 .grooming_title{
@@ -64,6 +62,6 @@ li{
 span{
 	color: #A07B50;
 }
-#phone_number{
+.phone_num{
 	font-weight: bold;
 }

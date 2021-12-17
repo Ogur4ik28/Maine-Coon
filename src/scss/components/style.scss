@@ -1,0 +1,25 @@
+body {
+    background-color: #000;
+    color: #fff;
+    padding: 0%;
+    line-height: 15px;
+}
+.text,
+.grooming-title {
+  color: #A07B50;
+}
+@font-face{
+  font-family: "Roboto";
+  src: url('../fonts/Roboto.woff');
+  src: url('../fonts/Roboto.woff2');
+  src: url('../fonts/Robotobold.woff');
+  src: url('../fonts/Robotobold.woff2');
+  src: url('../fonts/Robotolight.woff');
+  src: url('../fonts/Robotolight.woff2');
+  src: url('../fonts/Robotomedium.woff');
+  src: url('../fonts/Robotomedium.woff2');
+  src: url('../fonts/yesevaone.woff');
+  src: url('../fonts/yesevaone.woff2');
+  font-weight: normal;
+  font-style: normal;
+  }
